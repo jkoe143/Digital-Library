@@ -1,9 +1,9 @@
 # Digital-Library
 
-<img width="2070" height="1142" alt="image" src="https://github.com/user-attachments/assets/c70cad3b-c84d-441e-ba92-13175a44eec0" />
-<img width="2086" height="1252" alt="image" src="https://github.com/user-attachments/assets/84ba3655-4029-4ac9-933e-99fdac1f0f63" />
-<img width="2137" height="1248" alt="image" src="https://github.com/user-attachments/assets/cc48cfed-dd6b-4157-8552-795c9c1594cf" />
-<img width="2293" height="1247" alt="image" src="https://github.com/user-attachments/assets/4e7b6558-ab19-4a7d-8c3f-5bc935b7f578" />
+<img width="2546" height="1238" alt="image" src="https://github.com/user-attachments/assets/980959de-b604-44c1-ae8c-61c2803ad25c" />
+<img width="2541" height="1249" alt="image" src="https://github.com/user-attachments/assets/52db215c-d52a-4804-abbc-b571f9395f34" />
+<img width="2545" height="1250" alt="image" src="https://github.com/user-attachments/assets/ffe5b6a7-1ed8-453f-bc2d-ed43c333e5e7" />
+<img width="2547" height="1253" alt="image" src="https://github.com/user-attachments/assets/d95ffeb6-87bd-400b-8b9e-48d7f08aabca" />
 
 ## Backend Repository
 
